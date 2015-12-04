@@ -8,7 +8,7 @@ To see an example, install via `devtools::install_github('noamross/htmlhelp')` a
 
 See `man/macros/macros.Rd` and `R/macros.R` for how it works.
 
-Assets to be used in the HTML should be placed in the `inst/doc` directory. When referring to these files, it should be like so: `<img src="../doc/myfile.png">`.
+Assets to be used in the HTML should be placed in the `inst/doc` directory. When referring to these files, start the path with `../doc/` like so: `<img src="../doc/myfile.png">`.
 
 Right now the raw HTML shows up in other help file formats. You may want to use the `\if{html}` macro to avoid this.
 
