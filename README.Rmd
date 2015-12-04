@@ -32,7 +32,7 @@ to use the `\if{html}` macro to avoid this.
 
 I'm not sure where this will lead. It emerged out a discussion of how to get feedback
 on documentation, so the thought was to put a feedback form at the bottom of help
-files.  One could also include images, such as example plots (à la [**staticdocs**](https://github.com/hadley/staticdocs).
+files.  One could also include images, such as example plots (à la [**staticdocs**](https://github.com/hadley/staticdocs)).
 
 There are definitely limitations to R help's httpd server.  I found I could
 not embed iframes with external sources, nor was I able to submit a form to google forms.
