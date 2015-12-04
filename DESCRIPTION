@@ -1,0 +1,9 @@
+Package: htmlhelp
+Type: Package
+Title: Enhanced HTML R documentation
+Version: 0.1.0
+Authors@R: person("Noam", "Ross", email = "noam.ross@gmail.com", role = c("aut", "cre"))
+Description: Some experiments in dynamic package documentation
+License: MIT
+LazyData: TRUE
+RoxygenNote: 5.0.1
