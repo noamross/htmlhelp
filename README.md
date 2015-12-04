@@ -4,7 +4,7 @@ htmlhelp: Fancier R help files
 
 Some experiments in using raw HTML in R help files. Basically, raw HTML can be placed inside `\html{}` macros in `.Rd` files and **roxygen2** comments.
 
-To see an example, install via `devtools::install_github('noamross/htmlhelp` and run `?hello`.
+To see an example, install via `devtools::install_github('noamross/htmlhelp')` and run `?hello`.
 
 See `man/macros/macros.Rd` and `R/macros.R` for how it works.
 
