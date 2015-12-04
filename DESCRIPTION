@@ -6,4 +6,4 @@ Authors@R: person("Noam", "Ross", email = "noam.ross@gmail.com", role = c("aut",
 Description: Some experiments in dynamic package documentation
 License: MIT
 LazyData: TRUE
-RoxygenNote: 5.0.1
+RoxygenNote: 5.0.1.9000

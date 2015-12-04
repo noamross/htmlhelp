@@ -5,9 +5,9 @@
 #' @section Feedback:
 #' Was this help page useful? \html{'<form action="action_page.php"><input type="radio" name="help" value="Yes" checked>Yes <input type="radio" name="help" value="No" checked>No <input type="submit" value="Submit">'}
 #'
-#' Tell us why by filing an issue here: \html{'<a href="">Link to Github issue</a>'}
+#' Tell us why by filing an issue here: \html{'<a href="https://github.com/noamross/htmlhelp/issues/new">Link to Github issue</a>'}
 #'
-#' Edit it yourself! \html{'<a href="">Link to file on Github</a>'}
+#' Edit it yourself! \html{'<a href="https://github.com/noamross/htmlhelp/blob/master/R/hello.R">Link to file on Github</a>'}
 #'
 #' @section For fun:
 #'
