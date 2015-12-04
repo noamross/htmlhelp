@@ -17,3 +17,11 @@ I'm not sure where this will lead. It emerged out a discussion of how to get fee
 There are definitely limitations to R help's httpd server. I found I could not embed iframes with external sources, nor was I able to submit a form to google forms. The latter could use some experimentation if one is to use this tool to gather feedback on documentation.
 
 Please fork, PR, comment in the issues, do whatever you want with this, etc. I'd love to see your experiments
+
+------------------------------------------------------------------------
+
+Oh, when working on this it may be useful to turn on RStudio's debugger mode, which allows one to inspect elements by right-clicking, like a browser developer mode. To do this on OSX, use
+
+    defaults write org.rstudio.RStudio WebKitDeveloperExtras -bool true
+
+I'm not sure how to activate it on other systems.
