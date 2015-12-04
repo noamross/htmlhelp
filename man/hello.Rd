@@ -14,7 +14,7 @@ Some stuff about the function
 }
 \section{Feedback}{
 
-Was this help page useful? \html{'<form action="action_page.php"><input type="radio" name="help" value="Yes" checked>Yes <input type="radio" name="help" value="No" checked>No <input type="submit" value="Submit">'}
+ \html{'<div style="float:right;"> Was this help page useful?<form action="action_page.php" style><input type="radio" name="help" value="Yes" checked>Yes <input type="radio" name="help" value="No" checked>No <input type="submit" value="Submit"></form></div>'}
 
 Tell us why by filing an issue here: \html{'<a href="https://github.com/noamross/htmlhelp/issues/new">Link to Github issue</a>'}
 
