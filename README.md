@@ -32,7 +32,7 @@ The file should be placed in `inst/doc`. Note that if you load assets in html, t
 
 Right now the raw HTML shows up in other help file formats. You may want to use the `\if{html}` macro to avoid this.
 
-Other macros included so far are `\stylesheet{}`, which will replace the help CSS file with one included in `inst/doc` or via URL, and `add_stylesheet{}`, which just adds another stylesheet on top of the base one (useful for styling additional html you add.)
+Other macros included so far are `\stylesheet{}`, which will replace the help CSS file with one included in `inst/doc`, and `addstylesheet{}`, which just adds another stylesheet on top of the base one (useful for styling additional html you add). You may refer to stylesheet via URL in `addstylesheet{}`.
 
 There are definitely limitations to R help's httpd server. I found that, while running from RStudio, I could not embed iframes with external sources, nor was I able to submit a HTML form data. It *can* run Javascript.
 
