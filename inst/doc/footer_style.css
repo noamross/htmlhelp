@@ -1,0 +1,37 @@
+  body {
+    margin-bottom:50px;
+  }
+
+#footer {
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    height:40px;
+    background:black;
+    color:white;
+  }
+
+div.rw-ui-container {
+    float:left;
+    margin-left:10px;
+    margin-top:8px;
+  }
+
+#footer a {
+    color:white;
+    padding-left:3px;
+  }
+
+span#gh-links {
+  float:right;
+  text-align:right;
+  padding-right:10px;
+  line-height:40px;
+}
+
+span#gh-links img {
+  height:20px;
+  margin-top:5px;
+  vertical-align:middle;
+}
