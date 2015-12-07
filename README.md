@@ -2,7 +2,7 @@
 htmlhelp: Fancier R help files
 ==============================
 
-This package allows you to use raw HTML in your R-help files.
+This package allows you to use raw HTML in your R-help files.  Currently experimental / pre-alpha.
 
 Install
 -------
